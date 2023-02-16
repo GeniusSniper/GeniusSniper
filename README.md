@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everthing.
 - 👯 I’m looking to collaborate on everything I can learn.
 - 💬 2022 Goals: Eat, Drink and Sleep!
-- ⚡ Fun fact: I play League of Legneds and Valorant.
+- ⚡ Fun fact: I play Minecraft.
 
 ### Connect with me:
 

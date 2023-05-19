@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [<img src="https://img.icons8.com/dusk/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/ti-wei-0a20a61b8/)
-[<img src="https://img.icons8.com/nolan/48/angelist.png"/>](https://angel.co/u/ti-wei)
 
 ### Languages and Tools:
 

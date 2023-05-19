@@ -1,11 +1,11 @@
 ### Hi There, I am Ti 👋
 
-## I am a Learner, Developer, and Gamer
+## I am a Learner, Developer
 
 - 🔭 I’m currently working on [Glory2.1](https://geniussniper.github.io/Glory2.1/)
 - 🌱 I’m currently learning everthing.
 - 👯 I’m looking to collaborate on everything I can learn.
-- 💬 2022 Goals: Eat, Drink and Sleep!
+- 💬 2023 Goals: Eat, Drink and Sleep!
 - ⚡ Fun fact: I play Minecraft.
 
 ### Connect with me:

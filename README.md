@@ -2,7 +2,7 @@
 
 ## I am a Learner, Developer
 
-- 🔭 I’m currently working on [Glory2.1](https://geniussniper.github.io/Glory2.1/)
+- 🔭 I’m currently working on BubblePop
 - 🌱 I’m currently learning everthing.
 - 👯 I’m looking to collaborate on everything I can learn.
 - 💬 2023 Goals: Eat, Drink and Sleep!
